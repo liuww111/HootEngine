@@ -1,0 +1,13 @@
+D:\lww\hOOtEngine\CoreConsole\bin\Debug\netcoreapp2.0\CoreConsole.deps.json
+D:\lww\hOOtEngine\CoreConsole\bin\Debug\netcoreapp2.0\CoreConsole.runtimeconfig.json
+D:\lww\hOOtEngine\CoreConsole\bin\Debug\netcoreapp2.0\CoreConsole.runtimeconfig.dev.json
+D:\lww\hOOtEngine\CoreConsole\bin\Debug\netcoreapp2.0\CoreConsole.dll
+D:\lww\hOOtEngine\CoreConsole\bin\Debug\netcoreapp2.0\CoreConsole.pdb
+D:\lww\hOOtEngine\CoreConsole\bin\Debug\netcoreapp2.0\HootEngine.dll
+D:\lww\hOOtEngine\CoreConsole\bin\Debug\netcoreapp2.0\HootEngine.pdb
+D:\lww\hOOtEngine\CoreConsole\obj\Debug\netcoreapp2.0\CoreConsole.csprojResolveAssemblyReference.cache
+D:\lww\hOOtEngine\CoreConsole\obj\Debug\netcoreapp2.0\CoreConsole.csproj.CoreCompileInputs.cache
+D:\lww\hOOtEngine\CoreConsole\obj\Debug\netcoreapp2.0\CoreConsole.AssemblyInfoInputs.cache
+D:\lww\hOOtEngine\CoreConsole\obj\Debug\netcoreapp2.0\CoreConsole.AssemblyInfo.cs
+D:\lww\hOOtEngine\CoreConsole\obj\Debug\netcoreapp2.0\CoreConsole.dll
+D:\lww\hOOtEngine\CoreConsole\obj\Debug\netcoreapp2.0\CoreConsole.pdb

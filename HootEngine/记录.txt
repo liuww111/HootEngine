@@ -1,0 +1,24 @@
+1.fastBinaryJSON
+	fastBinaryJSON.BJSON.ToBJSON
+	fastBinaryJSON.BJSON.ToObject
+2.fastJSON
+	//fastJSON.JSON.ToJSON（需要修改 WriteObject ReadObject）
+	//fastJSON.JSON.ToObject
+	//fastJSON.JSON.Parse
+	//fastJSON.Reflection.Instance.GetTypeAssemblyName
+
+
+3.已阅
+	Global.cs
+	MGIndex\DataTypes.cs
+
+
+后缀说明
+*.mgbmp 存储每个索引ID对应的文档ID列表
+*.mgbmr 存储词对应的索引ID号
+*.mgdat 存储文档
+*.mgidx
+*.mgrec 存储文档的索引ID（根据文档ID查找文档对应的索引ID，然后再查文档）
+*.words 存储词列表
+*.deleted
+*.idx

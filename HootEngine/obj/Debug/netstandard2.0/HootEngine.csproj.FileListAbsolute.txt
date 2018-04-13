@@ -1,0 +1,13 @@
+D:\lww\hOOtEngine\HootEngine\obj\Debug\netstandard2.0\HootEngine.csprojResolveAssemblyReference.cache
+D:\lww\hOOtEngine\HootEngine\obj\Debug\netstandard2.0\HootEngine.csproj.CoreCompileInputs.cache
+D:\lww\hOOtEngine\HootEngine\obj\Debug\netstandard2.0\HootEngine.AssemblyInfoInputs.cache
+D:\lww\hOOtEngine\HootEngine\obj\Debug\netstandard2.0\HootEngine.AssemblyInfo.cs
+D:\lww\hOOtEngine\HootEngine\bin\Debug\netstandard2.0\HootEngine.deps.json
+D:\lww\hOOtEngine\HootEngine\bin\Debug\netstandard2.0\HootEngine.dll
+D:\lww\hOOtEngine\HootEngine\bin\Debug\netstandard2.0\HootEngine.pdb
+D:\lww\hOOtEngine\HootEngine\bin\Debug\netstandard2.0\Newtonsoft.Json.Bson.dll
+D:\lww\hOOtEngine\HootEngine\bin\Debug\netstandard2.0\Newtonsoft.Json.dll
+D:\lww\hOOtEngine\HootEngine\bin\Debug\netstandard2.0\Newtonsoft.Json.xml
+D:\lww\hOOtEngine\HootEngine\bin\Debug\netstandard2.0\Newtonsoft.Json.Bson.xml
+D:\lww\hOOtEngine\HootEngine\obj\Debug\netstandard2.0\HootEngine.dll
+D:\lww\hOOtEngine\HootEngine\obj\Debug\netstandard2.0\HootEngine.pdb
